@@ -1,7 +1,3 @@
-
-# Auto installers and instructions for Both Windows And RunPod below link
-## > https://www.patreon.com/posts/94098751
-
 <!-- # magic-edit.github.io -->
 
 <p align="center">
